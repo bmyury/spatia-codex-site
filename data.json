@@ -1,0 +1,2516 @@
+{
+"antibodies": [
+{
+"target": "4-1BB (CD137)",
+"key": "CD137",
+"cat": "Checkpoint",
+"cells": [
+"Activated T cell"
+]
+},
+{
+"target": "Arginase-1",
+"key": "arg-1",
+"cat": "Myeloid",
+"cells": [
+"M2 macrophage",
+"Granulocyte"
+]
+},
+{
+"target": "ARID1A",
+"key": "ARID1A",
+"cat": "Proliferation/DDR",
+"cells": [
+"Tumor (SWI/SNF) cell"
+]
+},
+{
+"target": "B7-H3 (CD276)",
+"key": "CD276",
+"cat": "Checkpoint",
+"cells": [
+"Tumor cell",
+"Myeloid cell"
+]
+},
+{
+"target": "BCL-6",
+"key": "Bcl6",
+"cat": "B cell",
+"cells": [
+"Germinal-centre B cell",
+"Tfh cell"
+]
+},
+{
+"target": "BCMA",
+"key": "BCMA",
+"cat": "Plasma",
+"cells": [
+"Plasma cell"
+]
+},
+{
+"target": "c-Myc",
+"key": "cMyc",
+"cat": "Tumor",
+"cells": [
+"Proliferating tumor cell"
+]
+},
+{
+"target": "CCR4",
+"key": "CCR4",
+"cat": "T cell",
+"cells": [
+"Th2 / skin-homing T cell",
+"Treg"
+]
+},
+{
+"target": "CD104 (Integrin \u03b24)",
+"key": "CD104",
+"cat": "Epithelial",
+"cells": [
+"Basal epithelial cell"
+]
+},
+{
+"target": "CD107a (LAMP-1)",
+"key": "CD107",
+"cat": "Activation",
+"cells": [
+"Degranulating cytotoxic cell"
+]
+},
+{
+"target": "CD117 / c-KIT",
+"key": "CD117",
+"cat": "Mast",
+"cells": [
+"Mast cell",
+"Progenitor"
+]
+},
+{
+"target": "CD11b",
+"key": "CD11b",
+"cat": "Myeloid",
+"cells": [
+"Macrophage",
+"Granulocyte",
+"DC"
+]
+},
+{
+"target": "CD11c",
+"key": "CD11c",
+"cat": "DC",
+"cells": [
+"Dendritic cell",
+"Macrophage"
+]
+},
+{
+"target": "CD123",
+"key": "CD123",
+"cat": "DC",
+"cells": [
+"Plasmacytoid DC",
+"Basophil"
+]
+},
+{
+"target": "CD127 (IL-7R\u03b1)",
+"key": "CD127",
+"cat": "T cell",
+"cells": [
+"Conventional T cell",
+"ILC"
+]
+},
+{
+"target": "CD138 (Syndecan-1)",
+"key": "CD138",
+"cat": "Plasma",
+"cells": [
+"Plasma cell"
+]
+},
+{
+"target": "CD14",
+"key": "CD14",
+"cat": "Myeloid",
+"cells": [
+"Monocyte/Macrophage"
+]
+},
+{
+"target": "CD15",
+"key": "CD15",
+"cat": "Granulocyte",
+"cells": [
+"Neutrophil",
+"Eosinophil"
+]
+},
+{
+"target": "CD155 (PVR)",
+"key": "CD155",
+"cat": "Checkpoint",
+"cells": [
+"Tumor / myeloid cell"
+]
+},
+{
+"target": "CD16",
+"key": "CD16",
+"cat": "NK",
+"cells": [
+"NK cell",
+"Neutrophil",
+"Macrophage"
+]
+},
+{
+"target": "CD163",
+"key": "CD163",
+"cat": "Myeloid",
+"cells": [
+"M2 macrophage"
+]
+},
+{
+"target": "CD169 (Siglec-1)",
+"key": "CD169",
+"cat": "Myeloid",
+"cells": [
+"Sinusoidal macrophage"
+]
+},
+{
+"target": "CD19",
+"key": "CD19",
+"cat": "B cell",
+"cells": [
+"B cell"
+]
+},
+{
+"target": "CD1c (BDCA-1)",
+"key": "CD1c",
+"cat": "DC",
+"cells": [
+"cDC2"
+]
+},
+{
+"target": "CD2",
+"key": "CD2",
+"cat": "T cell",
+"cells": [
+"T cell",
+"NK cell"
+]
+},
+{
+"target": "CD20",
+"key": "CD20",
+"cat": "B cell",
+"cells": [
+"B cell"
+]
+},
+{
+"target": "CD206 (MMR)",
+"key": "MMR",
+"cat": "Myeloid",
+"cells": [
+"M2 macrophage"
+]
+},
+{
+"target": "CD206 (MRC1)",
+"key": "CD206",
+"cat": "Myeloid",
+"cells": [
+"M2 macrophage",
+"Dendritic cell"
+]
+},
+{
+"target": "CD21",
+"key": "CD21",
+"cat": "B cell",
+"cells": [
+"Follicular dendritic cell",
+"Mature B cell"
+]
+},
+{
+"target": "CD22",
+"key": "CD22",
+"cat": "B cell",
+"cells": [
+"B cell"
+]
+},
+{
+"target": "CD235a (Glycophorin A)",
+"key": "CD235a",
+"cat": "Other",
+"cells": [
+"Erythrocyte"
+]
+},
+{
+"target": "CD25 (IL-2R\u03b1)",
+"key": "CD25",
+"cat": "Activation",
+"cells": [
+"Activated / regulatory T cell"
+]
+},
+{
+"target": "CD27",
+"key": "CD27",
+"cat": "T cell",
+"cells": [
+"Memory T cell",
+"B cell"
+]
+},
+{
+"target": "CD3",
+"key": "CD3",
+"cat": "T cell",
+"cells": [
+"T cell (pan)"
+]
+},
+{
+"target": "CD30",
+"key": "CD30",
+"cat": "Activation",
+"cells": [
+"Activated T/B cell",
+"Reed-Sternberg cell"
+]
+},
+{
+"target": "CD31 (PECAM1)",
+"key": "CD31",
+"cat": "Endothelial",
+"cells": [
+"Endothelial cell"
+]
+},
+{
+"target": "CD34",
+"key": "CD34",
+"cat": "Endothelial",
+"cells": [
+"Endothelial cell",
+"Progenitor"
+]
+},
+{
+"target": "CD36",
+"key": "CD36",
+"cat": "Myeloid",
+"cells": [
+"Macrophage",
+"Endothelial",
+"Platelet"
+]
+},
+{
+"target": "CD38",
+"key": "CD38",
+"cat": "Activation",
+"cells": [
+"Plasma cell",
+"NK / activated T cell"
+]
+},
+{
+"target": "CD39",
+"key": "CD39",
+"cat": "Activation",
+"cells": [
+"Treg",
+"Myeloid-derived suppressor cell"
+]
+},
+{
+"target": "CD4",
+"key": "CD4",
+"cat": "T cell",
+"cells": [
+"T-helper cell",
+"Monocyte/Macrophage"
+]
+},
+{
+"target": "CD40",
+"key": "CD40",
+"cat": "Activation",
+"cells": [
+"APC (DC/B/macrophage)"
+]
+},
+{
+"target": "CD40L (CD154)",
+"key": "CD154",
+"cat": "Activation",
+"cells": [
+"Activated T cell"
+]
+},
+{
+"target": "CD44",
+"key": "CD44",
+"cat": "Activation",
+"cells": [
+"Activated / stem-like cell"
+]
+},
+{
+"target": "CD45RA",
+"key": "CD45RA",
+"cat": "T cell",
+"cells": [
+"Naive T cell"
+]
+},
+{
+"target": "CD45RO",
+"key": "CD45RO",
+"cat": "T cell",
+"cells": [
+"Memory T cell"
+]
+},
+{
+"target": "CD49f (Integrin \u03b16)",
+"key": "CD49f",
+"cat": "Epithelial",
+"cells": [
+"Basal / stem cell"
+]
+},
+{
+"target": "CD5",
+"key": "CD5",
+"cat": "T cell",
+"cells": [
+"T cell",
+"B1 B cell"
+]
+},
+{
+"target": "CD56 (NCAM1)",
+"key": "CD56",
+"cat": "NK",
+"cells": [
+"NK cell",
+"Neuroendocrine"
+]
+},
+{
+"target": "CD57",
+"key": "CD57",
+"cat": "NK",
+"cells": [
+"NK / senescent cytotoxic T cell"
+]
+},
+{
+"target": "CD63",
+"key": "CD63",
+"cat": "Myeloid",
+"cells": [
+"Activated mast / myeloid cell"
+]
+},
+{
+"target": "CD66b",
+"key": "CD66",
+"cat": "Granulocyte",
+"cells": [
+"Neutrophil",
+"Eosinophil"
+]
+},
+{
+"target": "CD68",
+"key": "CD68",
+"cat": "Myeloid",
+"cells": [
+"Macrophage"
+]
+},
+{
+"target": "CD69",
+"key": "CD69",
+"cat": "Activation",
+"cells": [
+"Tissue-resident / recently-activated lymphocyte"
+]
+},
+{
+"target": "CD7",
+"key": "CD7",
+"cat": "T cell",
+"cells": [
+"T cell",
+"NK cell"
+]
+},
+{
+"target": "CD71 (TfR)",
+"key": "CD71",
+"cat": "Proliferation/DDR",
+"cells": [
+"Proliferating / erythroid cell"
+]
+},
+{
+"target": "CD73 (NT5E)",
+"key": "CD73",
+"cat": "Stromal",
+"cells": [
+"Fibroblast",
+"Endothelial",
+"Treg"
+]
+},
+{
+"target": "CD79a",
+"key": "CD79a",
+"cat": "B cell",
+"cells": [
+"B cell",
+"Plasma cell"
+]
+},
+{
+"target": "CD79b",
+"key": "CD79b",
+"cat": "B cell",
+"cells": [
+"B cell"
+]
+},
+{
+"target": "CD8",
+"key": "CD8",
+"cat": "T cell",
+"cells": [
+"Cytotoxic T cell"
+]
+},
+{
+"target": "CD83",
+"key": "CD83",
+"cat": "DC",
+"cells": [
+"Activated / mature DC"
+]
+},
+{
+"target": "CD86",
+"key": "CD86",
+"cat": "DC",
+"cells": [
+"Activated APC"
+]
+},
+{
+"target": "CD9",
+"key": "CD9",
+"cat": "Other",
+"cells": [
+"Exosome / platelet / epithelial"
+]
+},
+{
+"target": "CD90 (THY1)",
+"key": "CD90",
+"cat": "Stromal",
+"cells": [
+"Fibroblast",
+"Mesenchymal stem cell"
+]
+},
+{
+"target": "CD94",
+"key": "CD94",
+"cat": "NK",
+"cells": [
+"NK cell"
+]
+},
+{
+"target": "CD96 (TACTILE)",
+"key": "CD96",
+"cat": "NK",
+"cells": [
+"NK / T cell"
+]
+},
+{
+"target": "Collagen IV",
+"key": "Coll IV",
+"cat": "Stromal",
+"cells": [
+"Basement membrane"
+]
+},
+{
+"target": "CTLA-4 (CD152)",
+"key": "CTLA4",
+"cat": "Checkpoint",
+"cells": [
+"Regulatory / activated T cell"
+]
+},
+{
+"target": "CXCL10",
+"key": "CXCL10",
+"cat": "Signaling",
+"cells": [
+"IFN-activated stroma / myeloid"
+]
+},
+{
+"target": "CXCR3",
+"key": "CXCR3",
+"cat": "T cell",
+"cells": [
+"Th1 / effector T cell"
+]
+},
+{
+"target": "CXCR5 (CD185)",
+"key": "CD185",
+"cat": "T cell",
+"cells": [
+"Follicular-helper T cell",
+"B cell"
+]
+},
+{
+"target": "Cytokeratin-7",
+"key": "CK7",
+"cat": "Epithelial",
+"cells": [
+"Glandular epithelium"
+]
+},
+{
+"target": "Cytokeratin-8",
+"key": "Keratin 8",
+"cat": "Epithelial",
+"cells": [
+"Luminal epithelium"
+]
+},
+{
+"target": "DC-LAMP",
+"key": "DC-lamp",
+"cat": "DC",
+"cells": [
+"Mature dendritic cell"
+]
+},
+{
+"target": "DDR2",
+"key": "DDR2",
+"cat": "Stromal",
+"cells": [
+"Fibroblast"
+]
+},
+{
+"target": "DNAM-1 (CD226)",
+"key": "DNAM1",
+"cat": "NK",
+"cells": [
+"NK / T cell"
+]
+},
+{
+"target": "E-cadherin",
+"key": "Ecad",
+"cat": "Epithelial",
+"cells": [
+"Epithelial cell"
+]
+},
+{
+"target": "FAP",
+"key": "FAP",
+"cat": "Stromal",
+"cells": [
+"Cancer-associated fibroblast"
+]
+},
+{
+"target": "FcRH5",
+"key": "FcRH5",
+"cat": "Plasma",
+"cells": [
+"Plasma / B cell"
+]
+},
+{
+"target": "FoxO1",
+"key": "FoxO1",
+"cat": "Signaling",
+"cells": [
+"Stress-signaling cell"
+]
+},
+{
+"target": "FoxP3",
+"key": "FoxP3",
+"cat": "T cell",
+"cells": [
+"Regulatory T cell (Treg)"
+]
+},
+{
+"target": "GAS6",
+"key": "GAS6",
+"cat": "Signaling",
+"cells": [
+"Stromal / efferocytic signal"
+]
+},
+{
+"target": "GATA3",
+"key": "GATA3",
+"cat": "Signaling",
+"cells": [
+"Th2 cell",
+"ILC2"
+]
+},
+{
+"target": "HIF-1\u03b1",
+"key": "HIF1a",
+"cat": "Signaling",
+"cells": [
+"Hypoxic cell"
+]
+},
+{
+"target": "HIF-2\u03b1",
+"key": "HIF2a",
+"cat": "Signaling",
+"cells": [
+"Hypoxic cell"
+]
+},
+{
+"target": "HLA-ABC (MHC I)",
+"key": "MHCI",
+"cat": "Other",
+"cells": [
+"All nucleated cells"
+]
+},
+{
+"target": "HLA-DR (MHC II)",
+"key": "HLADR",
+"cat": "Myeloid",
+"cells": [
+"Antigen-presenting cell"
+]
+},
+{
+"target": "HLA-G",
+"key": "HLA-G",
+"cat": "Checkpoint",
+"cells": [
+"Trophoblast / immune-evasive tumor"
+]
+},
+{
+"target": "ICAM-1 (CD54)",
+"key": "CD54",
+"cat": "Activation",
+"cells": [
+"Activated endothelium / APC"
+]
+},
+{
+"target": "ICOS (CD278)",
+"key": "CD278",
+"cat": "Checkpoint",
+"cells": [
+"Activated / follicular-helper T cell"
+]
+},
+{
+"target": "IFN-\u03b3",
+"key": "IFNg",
+"cat": "Signaling",
+"cells": [
+"Activated Th1 / NK / CD8"
+]
+},
+{
+"target": "Ig \u03ba light chain",
+"key": "Kappa",
+"cat": "Plasma",
+"cells": [
+"Plasma cell (clonality)"
+]
+},
+{
+"target": "Ig \u03bb light chain",
+"key": "lambda",
+"cat": "Plasma",
+"cells": [
+"Plasma cell (clonality)"
+]
+},
+{
+"target": "IgD",
+"key": "IgD",
+"cat": "B cell",
+"cells": [
+"Naive B cell"
+]
+},
+{
+"target": "IgG",
+"key": "IgG",
+"cat": "Plasma",
+"cells": [
+"Class-switched B / plasma cell"
+]
+},
+{
+"target": "IgM",
+"key": "IgM",
+"cat": "B cell",
+"cells": [
+"Naive / memory B cell"
+]
+},
+{
+"target": "ILT2 (CD85j)",
+"key": "CD85j",
+"cat": "Checkpoint",
+"cells": [
+"Myeloid / NK inhibitory"
+]
+},
+{
+"target": "IRF4",
+"key": "IRF4",
+"cat": "Signaling",
+"cells": [
+"cDC2 / plasma cell"
+]
+},
+{
+"target": "IRF8",
+"key": "IRF-8",
+"cat": "Signaling",
+"cells": [
+"cDC1 / monocyte"
+]
+},
+{
+"target": "Ki-67",
+"key": "Ki67",
+"cat": "Proliferation/DDR",
+"cells": [
+"Proliferating cell (any lineage)"
+]
+},
+{
+"target": "KIR",
+"key": "KIR",
+"cat": "NK",
+"cells": [
+"NK cell"
+]
+},
+{
+"target": "KLRG1",
+"key": "KLRG1",
+"cat": "T cell",
+"cells": [
+"Terminally-differentiated effector T/NK"
+]
+},
+{
+"target": "L1CAM",
+"key": "L1CAM",
+"cat": "Neural",
+"cells": [
+"Neuron / neural tumor"
+]
+},
+{
+"target": "LAG-3",
+"key": "LAG3",
+"cat": "Checkpoint",
+"cells": [
+"Exhausted T cell"
+]
+},
+{
+"target": "Mast-cell tryptase",
+"key": "MCT",
+"cat": "Mast",
+"cells": [
+"Mast cell"
+]
+},
+{
+"target": "MICA/B",
+"key": "MICA/B",
+"cat": "NK",
+"cells": [
+"Stressed / tumor cell (NKG2D ligand)"
+]
+},
+{
+"target": "MMP-12",
+"key": "MMP12",
+"cat": "Signaling",
+"cells": [
+"Macrophage (elastase)"
+]
+},
+{
+"target": "MMP-9",
+"key": "MMP-9",
+"cat": "Signaling",
+"cells": [
+"Remodeling myeloid / stroma"
+]
+},
+{
+"target": "MRE11",
+"key": "MRE11",
+"cat": "Proliferation/DDR",
+"cells": [
+"DNA-damage-response cell"
+]
+},
+{
+"target": "MUC1 / EMA",
+"key": "MUC1",
+"cat": "Epithelial",
+"cells": [
+"Glandular epithelium"
+]
+},
+{
+"target": "MUC5AC",
+"key": "muc5ac",
+"cat": "Epithelial",
+"cells": [
+"Mucinous epithelium"
+]
+},
+{
+"target": "MUM-1 / IRF4",
+"key": "MUM1",
+"cat": "Plasma",
+"cells": [
+"Plasma cell",
+"Activated B cell"
+]
+},
+{
+"target": "Nectin-4",
+"key": "Nectin-4",
+"cat": "Tumor",
+"cells": [
+"Carcinoma cell"
+]
+},
+{
+"target": "NKG2D",
+"key": "NKG2D",
+"cat": "NK",
+"cells": [
+"NK cell",
+"Cytotoxic T cell"
+]
+},
+{
+"target": "NKp46 (NCR1)",
+"key": "NKp46",
+"cat": "NK",
+"cells": [
+"NK cell"
+]
+},
+{
+"target": "OX40 (CD134)",
+"key": "OX40",
+"cat": "Checkpoint",
+"cells": [
+"Activated T cell"
+]
+},
+{
+"target": "p16 (INK4a)",
+"key": "p16",
+"cat": "Proliferation/DDR",
+"cells": [
+"Senescent / HPV+ tumor cell"
+]
+},
+{
+"target": "p63",
+"key": "p63",
+"cat": "Epithelial",
+"cells": [
+"Basal epithelial cell"
+]
+},
+{
+"target": "Pan-cytokeratin",
+"key": "panCK",
+"cat": "Epithelial",
+"cells": [
+"Epithelial / tumor cell"
+]
+},
+{
+"target": "PARP-1",
+"key": "PARP1",
+"cat": "Proliferation/DDR",
+"cells": [
+"DNA-damage / tumor cell"
+]
+},
+{
+"target": "PAX5",
+"key": "PAX5",
+"cat": "B cell",
+"cells": [
+"B cell"
+]
+},
+{
+"target": "PAX8",
+"key": "PAX8",
+"cat": "Tumor",
+"cells": [
+"M\u00fcllerian / renal / thyroid epithelium"
+]
+},
+{
+"target": "PCNA",
+"key": "PCNA",
+"cat": "Proliferation/DDR",
+"cells": [
+"Proliferating cell"
+]
+},
+{
+"target": "PD-1 (CD279)",
+"key": "PD-1",
+"cat": "Checkpoint",
+"cells": [
+"Exhausted / activated T cell"
+]
+},
+{
+"target": "PD-L1 (CD274)",
+"key": "PD-L1",
+"cat": "Checkpoint",
+"cells": [
+"Tumor cell",
+"Myeloid cell"
+]
+},
+{
+"target": "PD-L2 (CD273)",
+"key": "CD273",
+"cat": "Checkpoint",
+"cells": [
+"Dendritic cell",
+"Macrophage"
+]
+},
+{
+"target": "PDGFR\u03b1",
+"key": "PDGFRa",
+"cat": "Stromal",
+"cells": [
+"Fibroblast"
+]
+},
+{
+"target": "PDGFR\u03b2",
+"key": "PDGFR",
+"cat": "Stromal",
+"cells": [
+"Pericyte",
+"Fibroblast"
+]
+},
+{
+"target": "phospho-STAT3",
+"key": "pstat3",
+"cat": "Signaling",
+"cells": [
+"IL-6/JAK-active cell"
+]
+},
+{
+"target": "Podoplanin",
+"key": "PDPN",
+"cat": "Stromal",
+"cells": [
+"Lymphatic endothelium",
+"Fibroblastic reticular cell"
+]
+},
+{
+"target": "Rab25",
+"key": "Rab25",
+"cat": "Tumor",
+"cells": [
+"Epithelial / tumor cell"
+]
+},
+{
+"target": "SF-1",
+"key": "SF-1",
+"cat": "Tumor",
+"cells": [
+"Adrenocortical / gonadal cell"
+]
+},
+{
+"target": "SLAMF7",
+"key": "SlamF7",
+"cat": "NK",
+"cells": [
+"NK / plasma cell"
+]
+},
+{
+"target": "SLFN11",
+"key": "SLFN11",
+"cat": "Proliferation/DDR",
+"cells": [
+"DNA-damage-sensitive tumor"
+]
+},
+{
+"target": "SNAIL",
+"key": "SNAIL",
+"cat": "Tumor",
+"cells": [
+"EMT tumor cell"
+]
+},
+{
+"target": "SOX2",
+"key": "Sox2",
+"cat": "Epithelial",
+"cells": [
+"Basal / stem epithelial cell"
+]
+},
+{
+"target": "T-bet",
+"key": "T-bet",
+"cat": "Signaling",
+"cells": [
+"Th1 / cytotoxic cell"
+]
+},
+{
+"target": "TCR \u03b2",
+"key": "TCRb",
+"cat": "T cell",
+"cells": [
+"\u03b1\u03b2 T cell"
+]
+},
+{
+"target": "TCR \u03b3\u03b4",
+"key": "TCRgd",
+"cat": "T cell",
+"cells": [
+"\u03b3\u03b4 T cell"
+]
+},
+{
+"target": "TGF-\u03b2",
+"key": "TGFb",
+"cat": "Signaling",
+"cells": [
+"Immunosuppressive stroma"
+]
+},
+{
+"target": "TIM-3",
+"key": "TIM3",
+"cat": "Checkpoint",
+"cells": [
+"Exhausted T cell",
+"Myeloid cell"
+]
+},
+{
+"target": "VEGFR1",
+"key": "VEGFR1",
+"cat": "Endothelial",
+"cells": [
+"Endothelial cell"
+]
+},
+{
+"target": "VEGFR2",
+"key": "VEGFR2",
+"cat": "Endothelial",
+"cells": [
+"Endothelial cell"
+]
+},
+{
+"target": "Vimentin",
+"key": "Vimentin",
+"cat": "Stromal",
+"cells": [
+"Mesenchymal / fibroblast",
+"Immune cell"
+]
+},
+{
+"target": "VISTA",
+"key": "VISTA",
+"cat": "Checkpoint",
+"cells": [
+"Myeloid cell",
+"T cell"
+]
+},
+{
+"target": "XCR1",
+"key": "XCR1",
+"cat": "DC",
+"cells": [
+"cDC1"
+]
+},
+{
+"target": "ZEB-1",
+"key": "ZEB-1",
+"cat": "Tumor",
+"cells": [
+"EMT tumor / fibroblast"
+]
+},
+{
+"target": "\u03b2-catenin",
+"key": "Bcat",
+"cat": "Signaling",
+"cells": [
+"Epithelial / Wnt-active cell"
+]
+}
+],
+"panels": [
+{
+"id": "tme",
+"name": "Tumor Microenvironment (Immuno-Oncology)",
+"blurb": "Map tumor, stroma and the full immune contexture with checkpoint read-outs.",
+"app": "Solid-tumor spatial biology, IO target discovery, responder stratification.",
+"targets": [
+"panCK",
+"Ecad",
+"Ki67",
+"Vimentin",
+"FAP",
+"PDGFRa",
+"Coll IV",
+"CD31",
+"CD34",
+"PDPN",
+"CD3",
+"CD4",
+"CD8",
+"FoxP3",
+"CD20",
+"CD68",
+"CD163",
+"CD206",
+"CD11c",
+"CD14",
+"HLADR",
+"CD56",
+"CD57",
+"PD-1",
+"PD-L1",
+"CTLA4",
+"TIM3",
+"LAG3",
+"CD276",
+"HIF1a",
+"MHCI"
+],
+"cells": [
+"Epithelial / tumor cell",
+"Epithelial cell",
+"Proliferating cell (any lineage)",
+"Mesenchymal / fibroblast",
+"Immune cell",
+"Cancer-associated fibroblast",
+"Fibroblast",
+"Basement membrane",
+"Endothelial cell",
+"Progenitor",
+"Lymphatic endothelium",
+"Fibroblastic reticular cell",
+"T cell (pan)",
+"T-helper cell",
+"Monocyte/Macrophage",
+"Cytotoxic T cell",
+"Regulatory T cell (Treg)",
+"B cell",
+"Macrophage",
+"M2 macrophage",
+"Dendritic cell",
+"Antigen-presenting cell",
+"NK cell",
+"Neuroendocrine",
+"NK / senescent cytotoxic T cell",
+"Exhausted / activated T cell",
+"Tumor cell",
+"Myeloid cell",
+"Regulatory / activated T cell",
+"Exhausted T cell",
+"Hypoxic cell",
+"All nucleated cells"
+]
+},
+{
+"id": "checkpoint",
+"name": "Immune Checkpoint & T-cell Exhaustion",
+"blurb": "Dedicated co-inhibitory / co-stimulatory axis with exhausted-T-cell phenotyping.",
+"app": "IO combination rationale, checkpoint spatial co-expression.",
+"targets": [
+"CD3",
+"CD4",
+"CD8",
+"CD45RO",
+"FoxP3",
+"PD-1",
+"PD-L1",
+"CD273",
+"CTLA4",
+"TIM3",
+"LAG3",
+"VISTA",
+"CD276",
+"CD155",
+"CD278",
+"CD137",
+"OX40",
+"CD85j",
+"Ki67"
+],
+"cells": [
+"T cell (pan)",
+"T-helper cell",
+"Monocyte/Macrophage",
+"Cytotoxic T cell",
+"Memory T cell",
+"Regulatory T cell (Treg)",
+"Exhausted / activated T cell",
+"Tumor cell",
+"Myeloid cell",
+"Dendritic cell",
+"Macrophage",
+"Regulatory / activated T cell",
+"Exhausted T cell",
+"T cell",
+"Tumor / myeloid cell",
+"Activated / follicular-helper T cell",
+"Activated T cell",
+"Myeloid / NK inhibitory",
+"Proliferating cell (any lineage)"
+]
+},
+{
+"id": "autoimmune",
+"name": "Autoimmunity & Chronic Inflammation",
+"blurb": "Resolve pathogenic T/B populations, tertiary lymphoid structures and myeloid drivers.",
+"app": "Rheumatology, IBD, dermatology, transplant-rejection spatial pathology.",
+"targets": [
+"CD3",
+"CD4",
+"CD8",
+"FoxP3",
+"CD25",
+"CXCR3",
+"CCR4",
+"CD45RA",
+"CD45RO",
+"CD20",
+"CD21",
+"CD79a",
+"CD138",
+"Bcl6",
+"CD185",
+"CD68",
+"CD163",
+"CD14",
+"CD11c",
+"HLADR",
+"CD69",
+"CD38",
+"CD278",
+"MMP-9"
+],
+"cells": [
+"T cell (pan)",
+"T-helper cell",
+"Monocyte/Macrophage",
+"Cytotoxic T cell",
+"Regulatory T cell (Treg)",
+"Activated / regulatory T cell",
+"Th1 / effector T cell",
+"Th2 / skin-homing T cell",
+"Treg",
+"Naive T cell",
+"Memory T cell",
+"B cell",
+"Follicular dendritic cell",
+"Mature B cell",
+"Plasma cell",
+"Germinal-centre B cell",
+"Tfh cell",
+"Follicular-helper T cell",
+"Macrophage",
+"M2 macrophage",
+"Dendritic cell",
+"Antigen-presenting cell",
+"Tissue-resident / recently-activated lymphocyte",
+"NK / activated T cell",
+"Activated / follicular-helper T cell",
+"Remodeling myeloid / stroma"
+]
+},
+{
+"id": "tls",
+"name": "Lymphoid Architecture & Tertiary Lymphoid Structures",
+"blurb": "Delineate germinal centres, FDC networks and Tfh/B interactions.",
+"app": "TLS scoring, vaccine / lymphoma / IO biology.",
+"targets": [
+"CD3",
+"CD4",
+"CD8",
+"CD20",
+"CD21",
+"CD27",
+"PAX5",
+"Bcl6",
+"MUM1",
+"CD138",
+"IgD",
+"CD185",
+"PD-1",
+"CD68",
+"HLADR",
+"Ki67"
+],
+"cells": [
+"T cell (pan)",
+"T-helper cell",
+"Monocyte/Macrophage",
+"Cytotoxic T cell",
+"B cell",
+"Follicular dendritic cell",
+"Mature B cell",
+"Memory T cell",
+"Germinal-centre B cell",
+"Tfh cell",
+"Plasma cell",
+"Activated B cell",
+"Naive B cell",
+"Follicular-helper T cell",
+"Exhausted / activated T cell",
+"Macrophage",
+"Antigen-presenting cell",
+"Proliferating cell (any lineage)"
+]
+},
+{
+"id": "myeloid",
+"name": "Myeloid & Innate Immunity",
+"blurb": "Deep macrophage-polarisation and dendritic-cell-subset resolution.",
+"app": "Myeloid-targeted therapy, innate-immune spatial profiling.",
+"targets": [
+"CD68",
+"CD163",
+"CD206",
+"arg-1",
+"CD14",
+"CD11b",
+"CD11c",
+"CD1c",
+"CD123",
+"XCR1",
+"DC-lamp",
+"CD83",
+"CD86",
+"CD40",
+"HLADR",
+"CD169",
+"MMP12",
+"VISTA",
+"TIM3"
+],
+"cells": [
+"Macrophage",
+"M2 macrophage",
+"Dendritic cell",
+"Granulocyte",
+"Monocyte/Macrophage",
+"DC",
+"cDC2",
+"Plasmacytoid DC",
+"Basophil",
+"cDC1",
+"Mature dendritic cell",
+"Activated / mature DC",
+"Activated APC",
+"APC (DC/B/macrophage)",
+"Antigen-presenting cell",
+"Sinusoidal macrophage",
+"Macrophage (elastase)",
+"Myeloid cell",
+"T cell",
+"Exhausted T cell"
+]
+},
+{
+"id": "nk",
+"name": "NK & Cytotoxicity",
+"blurb": "Natural-killer and cytotoxic-effector phenotyping with stress-ligand context.",
+"app": "NK-cell therapy, innate cytotoxicity, missing-self biology.",
+"targets": [
+"CD56",
+"CD57",
+"CD16",
+"NKG2D",
+"NKp46",
+"KIR",
+"DNAM1",
+"CD94",
+"SlamF7",
+"CD96",
+"MICA/B",
+"T-bet",
+"CD8",
+"CD3"
+],
+"cells": [
+"NK cell",
+"Neuroendocrine",
+"NK / senescent cytotoxic T cell",
+"Neutrophil",
+"Macrophage",
+"Cytotoxic T cell",
+"NK / T cell",
+"NK / plasma cell",
+"Stressed / tumor cell (NKG2D ligand)",
+"Th1 / cytotoxic cell",
+"T cell (pan)"
+]
+},
+{
+"id": "tumor-emt",
+"name": "Tumour Epithelium & EMT",
+"blurb": "Carcinoma identity, proliferation, stemness and epithelial-mesenchymal transition.",
+"app": "Tumour-intrinsic biology, EMT / plasticity, biomarker discovery.",
+"targets": [
+"panCK",
+"CK7",
+"Ecad",
+"p63",
+"Sox2",
+"MUC1",
+"CD49f",
+"Nectin-4",
+"Vimentin",
+"SNAIL",
+"ZEB-1",
+"cMyc",
+"Bcat",
+"Ki67",
+"PCNA",
+"p16",
+"PARP1",
+"HIF1a"
+],
+"cells": [
+"Epithelial / tumor cell",
+"Glandular epithelium",
+"Epithelial cell",
+"Basal epithelial cell",
+"Basal / stem epithelial cell",
+"Basal / stem cell",
+"Carcinoma cell",
+"Mesenchymal / fibroblast",
+"Immune cell",
+"EMT tumor cell",
+"EMT tumor / fibroblast",
+"Proliferating tumor cell",
+"Epithelial / Wnt-active cell",
+"Proliferating cell (any lineage)",
+"Proliferating cell",
+"Senescent / HPV+ tumor cell",
+"DNA-damage / tumor cell",
+"Hypoxic cell"
+]
+},
+{
+"id": "stroma",
+"name": "Stroma, Vasculature & Angiogenesis",
+"blurb": "Cancer-associated fibroblasts, vessels and matrix remodeling.",
+"app": "Anti-angiogenic / anti-fibrotic programs, stromal niches.",
+"targets": [
+"FAP",
+"PDGFRa",
+"PDGFR",
+"DDR2",
+"CD90",
+"Vimentin",
+"PDPN",
+"Coll IV",
+"CD31",
+"CD34",
+"VEGFR1",
+"VEGFR2",
+"MMP-9",
+"CD73",
+"TGFb"
+],
+"cells": [
+"Cancer-associated fibroblast",
+"Fibroblast",
+"Pericyte",
+"Mesenchymal stem cell",
+"Mesenchymal / fibroblast",
+"Immune cell",
+"Lymphatic endothelium",
+"Fibroblastic reticular cell",
+"Basement membrane",
+"Endothelial cell",
+"Progenitor",
+"Remodeling myeloid / stroma",
+"Endothelial",
+"Treg",
+"Immunosuppressive stroma"
+]
+},
+{
+"id": "gi-mucosal",
+"name": "GI / Mucosal (Eosinophilic Disease)",
+"blurb": "Eosinophil, mast-cell and type-2 inflammation in epithelial mucosa.",
+"app": "Eosinophilic esophagitis / GI, allergic & type-2 disease.",
+"targets": [
+"panCK",
+"p63",
+"Ecad",
+"CD15",
+"CD66",
+"MCT",
+"CD117",
+"GATA3",
+"CD3",
+"CD4",
+"CD8",
+"CD20",
+"CD68",
+"CD163",
+"Vimentin",
+"PDPN",
+"CD31",
+"Ki67"
+],
+"cells": [
+"Epithelial / tumor cell",
+"Basal epithelial cell",
+"Epithelial cell",
+"Neutrophil",
+"Eosinophil",
+"Mast cell",
+"Progenitor",
+"Th2 cell",
+"ILC2",
+"T cell (pan)",
+"T-helper cell",
+"Monocyte/Macrophage",
+"Cytotoxic T cell",
+"B cell",
+"Macrophage",
+"M2 macrophage",
+"Mesenchymal / fibroblast",
+"Immune cell",
+"Lymphatic endothelium",
+"Fibroblastic reticular cell",
+"Endothelial cell",
+"Proliferating cell (any lineage)"
+]
+}
+],
+"cellTypes": [
+{
+"name": "APC (DC/B/macrophage)",
+"markers": [
+"CD40"
+]
+},
+{
+"name": "Activated / follicular-helper T cell",
+"markers": [
+"ICOS (CD278)"
+]
+},
+{
+"name": "Activated / mature DC",
+"markers": [
+"CD83"
+]
+},
+{
+"name": "Activated / regulatory T cell",
+"markers": [
+"CD25 (IL-2R\u03b1)"
+]
+},
+{
+"name": "Activated / stem-like cell",
+"markers": [
+"CD44"
+]
+},
+{
+"name": "Activated APC",
+"markers": [
+"CD86"
+]
+},
+{
+"name": "Activated B cell",
+"markers": [
+"MUM-1 / IRF4"
+]
+},
+{
+"name": "Activated T cell",
+"markers": [
+"4-1BB (CD137)",
+"CD40L (CD154)",
+"OX40 (CD134)"
+]
+},
+{
+"name": "Activated T/B cell",
+"markers": [
+"CD30"
+]
+},
+{
+"name": "Activated Th1 / NK / CD8",
+"markers": [
+"IFN-\u03b3"
+]
+},
+{
+"name": "Activated endothelium / APC",
+"markers": [
+"ICAM-1 (CD54)"
+]
+},
+{
+"name": "Activated mast / myeloid cell",
+"markers": [
+"CD63"
+]
+},
+{
+"name": "Adrenocortical / gonadal cell",
+"markers": [
+"SF-1"
+]
+},
+{
+"name": "All nucleated cells",
+"markers": [
+"HLA-ABC (MHC I)"
+]
+},
+{
+"name": "Antigen-presenting cell",
+"markers": [
+"HLA-DR (MHC II)"
+]
+},
+{
+"name": "B cell",
+"markers": [
+"CD19",
+"CD20",
+"CD22",
+"CD27",
+"CD79a",
+"CD79b",
+"CXCR5 (CD185)",
+"PAX5"
+]
+},
+{
+"name": "B1 B cell",
+"markers": [
+"CD5"
+]
+},
+{
+"name": "Basal / stem cell",
+"markers": [
+"CD49f (Integrin \u03b16)"
+]
+},
+{
+"name": "Basal / stem epithelial cell",
+"markers": [
+"SOX2"
+]
+},
+{
+"name": "Basal epithelial cell",
+"markers": [
+"CD104 (Integrin \u03b24)",
+"p63"
+]
+},
+{
+"name": "Basement membrane",
+"markers": [
+"Collagen IV"
+]
+},
+{
+"name": "Basophil",
+"markers": [
+"CD123"
+]
+},
+{
+"name": "Cancer-associated fibroblast",
+"markers": [
+"FAP"
+]
+},
+{
+"name": "Carcinoma cell",
+"markers": [
+"Nectin-4"
+]
+},
+{
+"name": "Class-switched B / plasma cell",
+"markers": [
+"IgG"
+]
+},
+{
+"name": "Conventional T cell",
+"markers": [
+"CD127 (IL-7R\u03b1)"
+]
+},
+{
+"name": "Cytotoxic T cell",
+"markers": [
+"CD8",
+"NKG2D"
+]
+},
+{
+"name": "DC",
+"markers": [
+"CD11b"
+]
+},
+{
+"name": "DNA-damage / tumor cell",
+"markers": [
+"PARP-1"
+]
+},
+{
+"name": "DNA-damage-response cell",
+"markers": [
+"MRE11"
+]
+},
+{
+"name": "DNA-damage-sensitive tumor",
+"markers": [
+"SLFN11"
+]
+},
+{
+"name": "Degranulating cytotoxic cell",
+"markers": [
+"CD107a (LAMP-1)"
+]
+},
+{
+"name": "Dendritic cell",
+"markers": [
+"CD11c",
+"CD206 (MRC1)",
+"PD-L2 (CD273)"
+]
+},
+{
+"name": "EMT tumor / fibroblast",
+"markers": [
+"ZEB-1"
+]
+},
+{
+"name": "EMT tumor cell",
+"markers": [
+"SNAIL"
+]
+},
+{
+"name": "Endothelial",
+"markers": [
+"CD36",
+"CD73 (NT5E)"
+]
+},
+{
+"name": "Endothelial cell",
+"markers": [
+"CD31 (PECAM1)",
+"CD34",
+"VEGFR1",
+"VEGFR2"
+]
+},
+{
+"name": "Eosinophil",
+"markers": [
+"CD15",
+"CD66b"
+]
+},
+{
+"name": "Epithelial / Wnt-active cell",
+"markers": [
+"\u03b2-catenin"
+]
+},
+{
+"name": "Epithelial / tumor cell",
+"markers": [
+"Pan-cytokeratin",
+"Rab25"
+]
+},
+{
+"name": "Epithelial cell",
+"markers": [
+"E-cadherin"
+]
+},
+{
+"name": "Erythrocyte",
+"markers": [
+"CD235a (Glycophorin A)"
+]
+},
+{
+"name": "Exhausted / activated T cell",
+"markers": [
+"PD-1 (CD279)"
+]
+},
+{
+"name": "Exhausted T cell",
+"markers": [
+"LAG-3",
+"TIM-3"
+]
+},
+{
+"name": "Exosome / platelet / epithelial",
+"markers": [
+"CD9"
+]
+},
+{
+"name": "Fibroblast",
+"markers": [
+"CD73 (NT5E)",
+"CD90 (THY1)",
+"DDR2",
+"PDGFR\u03b1",
+"PDGFR\u03b2"
+]
+},
+{
+"name": "Fibroblastic reticular cell",
+"markers": [
+"Podoplanin"
+]
+},
+{
+"name": "Follicular dendritic cell",
+"markers": [
+"CD21"
+]
+},
+{
+"name": "Follicular-helper T cell",
+"markers": [
+"CXCR5 (CD185)"
+]
+},
+{
+"name": "Germinal-centre B cell",
+"markers": [
+"BCL-6"
+]
+},
+{
+"name": "Glandular epithelium",
+"markers": [
+"Cytokeratin-7",
+"MUC1 / EMA"
+]
+},
+{
+"name": "Granulocyte",
+"markers": [
+"Arginase-1",
+"CD11b"
+]
+},
+{
+"name": "Hypoxic cell",
+"markers": [
+"HIF-1\u03b1",
+"HIF-2\u03b1"
+]
+},
+{
+"name": "IFN-activated stroma / myeloid",
+"markers": [
+"CXCL10"
+]
+},
+{
+"name": "IL-6/JAK-active cell",
+"markers": [
+"phospho-STAT3"
+]
+},
+{
+"name": "ILC",
+"markers": [
+"CD127 (IL-7R\u03b1)"
+]
+},
+{
+"name": "ILC2",
+"markers": [
+"GATA3"
+]
+},
+{
+"name": "Immune cell",
+"markers": [
+"Vimentin"
+]
+},
+{
+"name": "Immunosuppressive stroma",
+"markers": [
+"TGF-\u03b2"
+]
+},
+{
+"name": "Luminal epithelium",
+"markers": [
+"Cytokeratin-8"
+]
+},
+{
+"name": "Lymphatic endothelium",
+"markers": [
+"Podoplanin"
+]
+},
+{
+"name": "M2 macrophage",
+"markers": [
+"Arginase-1",
+"CD163",
+"CD206 (MMR)",
+"CD206 (MRC1)"
+]
+},
+{
+"name": "Macrophage",
+"markers": [
+"CD11b",
+"CD11c",
+"CD16",
+"CD36",
+"CD68",
+"PD-L2 (CD273)"
+]
+},
+{
+"name": "Macrophage (elastase)",
+"markers": [
+"MMP-12"
+]
+},
+{
+"name": "Mast cell",
+"markers": [
+"CD117 / c-KIT",
+"Mast-cell tryptase"
+]
+},
+{
+"name": "Mature B cell",
+"markers": [
+"CD21"
+]
+},
+{
+"name": "Mature dendritic cell",
+"markers": [
+"DC-LAMP"
+]
+},
+{
+"name": "Memory T cell",
+"markers": [
+"CD27",
+"CD45RO"
+]
+},
+{
+"name": "Mesenchymal / fibroblast",
+"markers": [
+"Vimentin"
+]
+},
+{
+"name": "Mesenchymal stem cell",
+"markers": [
+"CD90 (THY1)"
+]
+},
+{
+"name": "Monocyte/Macrophage",
+"markers": [
+"CD14",
+"CD4"
+]
+},
+{
+"name": "Mucinous epithelium",
+"markers": [
+"MUC5AC"
+]
+},
+{
+"name": "Myeloid / NK inhibitory",
+"markers": [
+"ILT2 (CD85j)"
+]
+},
+{
+"name": "Myeloid cell",
+"markers": [
+"B7-H3 (CD276)",
+"PD-L1 (CD274)",
+"TIM-3",
+"VISTA"
+]
+},
+{
+"name": "Myeloid-derived suppressor cell",
+"markers": [
+"CD39"
+]
+},
+{
+"name": "M\u00fcllerian / renal / thyroid epithelium",
+"markers": [
+"PAX8"
+]
+},
+{
+"name": "NK / T cell",
+"markers": [
+"CD96 (TACTILE)",
+"DNAM-1 (CD226)"
+]
+},
+{
+"name": "NK / activated T cell",
+"markers": [
+"CD38"
+]
+},
+{
+"name": "NK / plasma cell",
+"markers": [
+"SLAMF7"
+]
+},
+{
+"name": "NK / senescent cytotoxic T cell",
+"markers": [
+"CD57"
+]
+},
+{
+"name": "NK cell",
+"markers": [
+"CD16",
+"CD2",
+"CD56 (NCAM1)",
+"CD7",
+"CD94",
+"KIR",
+"NKG2D",
+"NKp46 (NCR1)"
+]
+},
+{
+"name": "Naive / memory B cell",
+"markers": [
+"IgM"
+]
+},
+{
+"name": "Naive B cell",
+"markers": [
+"IgD"
+]
+},
+{
+"name": "Naive T cell",
+"markers": [
+"CD45RA"
+]
+},
+{
+"name": "Neuroendocrine",
+"markers": [
+"CD56 (NCAM1)"
+]
+},
+{
+"name": "Neuron / neural tumor",
+"markers": [
+"L1CAM"
+]
+},
+{
+"name": "Neutrophil",
+"markers": [
+"CD15",
+"CD16",
+"CD66b"
+]
+},
+{
+"name": "Pericyte",
+"markers": [
+"PDGFR\u03b2"
+]
+},
+{
+"name": "Plasma / B cell",
+"markers": [
+"FcRH5"
+]
+},
+{
+"name": "Plasma cell",
+"markers": [
+"BCMA",
+"CD138 (Syndecan-1)",
+"CD38",
+"CD79a",
+"MUM-1 / IRF4"
+]
+},
+{
+"name": "Plasma cell (clonality)",
+"markers": [
+"Ig \u03ba light chain",
+"Ig \u03bb light chain"
+]
+},
+{
+"name": "Plasmacytoid DC",
+"markers": [
+"CD123"
+]
+},
+{
+"name": "Platelet",
+"markers": [
+"CD36"
+]
+},
+{
+"name": "Progenitor",
+"markers": [
+"CD117 / c-KIT",
+"CD34"
+]
+},
+{
+"name": "Proliferating / erythroid cell",
+"markers": [
+"CD71 (TfR)"
+]
+},
+{
+"name": "Proliferating cell",
+"markers": [
+"PCNA"
+]
+},
+{
+"name": "Proliferating cell (any lineage)",
+"markers": [
+"Ki-67"
+]
+},
+{
+"name": "Proliferating tumor cell",
+"markers": [
+"c-Myc"
+]
+},
+{
+"name": "Reed-Sternberg cell",
+"markers": [
+"CD30"
+]
+},
+{
+"name": "Regulatory / activated T cell",
+"markers": [
+"CTLA-4 (CD152)"
+]
+},
+{
+"name": "Regulatory T cell (Treg)",
+"markers": [
+"FoxP3"
+]
+},
+{
+"name": "Remodeling myeloid / stroma",
+"markers": [
+"MMP-9"
+]
+},
+{
+"name": "Senescent / HPV+ tumor cell",
+"markers": [
+"p16 (INK4a)"
+]
+},
+{
+"name": "Sinusoidal macrophage",
+"markers": [
+"CD169 (Siglec-1)"
+]
+},
+{
+"name": "Stress-signaling cell",
+"markers": [
+"FoxO1"
+]
+},
+{
+"name": "Stressed / tumor cell (NKG2D ligand)",
+"markers": [
+"MICA/B"
+]
+},
+{
+"name": "Stromal / efferocytic signal",
+"markers": [
+"GAS6"
+]
+},
+{
+"name": "T cell",
+"markers": [
+"CD2",
+"CD5",
+"CD7",
+"VISTA"
+]
+},
+{
+"name": "T cell (pan)",
+"markers": [
+"CD3"
+]
+},
+{
+"name": "T-helper cell",
+"markers": [
+"CD4"
+]
+},
+{
+"name": "Terminally-differentiated effector T/NK",
+"markers": [
+"KLRG1"
+]
+},
+{
+"name": "Tfh cell",
+"markers": [
+"BCL-6"
+]
+},
+{
+"name": "Th1 / cytotoxic cell",
+"markers": [
+"T-bet"
+]
+},
+{
+"name": "Th1 / effector T cell",
+"markers": [
+"CXCR3"
+]
+},
+{
+"name": "Th2 / skin-homing T cell",
+"markers": [
+"CCR4"
+]
+},
+{
+"name": "Th2 cell",
+"markers": [
+"GATA3"
+]
+},
+{
+"name": "Tissue-resident / recently-activated lymphocyte",
+"markers": [
+"CD69"
+]
+},
+{
+"name": "Treg",
+"markers": [
+"CCR4",
+"CD39",
+"CD73 (NT5E)"
+]
+},
+{
+"name": "Trophoblast / immune-evasive tumor",
+"markers": [
+"HLA-G"
+]
+},
+{
+"name": "Tumor (SWI/SNF) cell",
+"markers": [
+"ARID1A"
+]
+},
+{
+"name": "Tumor / myeloid cell",
+"markers": [
+"CD155 (PVR)"
+]
+},
+{
+"name": "Tumor cell",
+"markers": [
+"B7-H3 (CD276)",
+"PD-L1 (CD274)"
+]
+},
+{
+"name": "cDC1",
+"markers": [
+"XCR1"
+]
+},
+{
+"name": "cDC1 / monocyte",
+"markers": [
+"IRF8"
+]
+},
+{
+"name": "cDC2",
+"markers": [
+"CD1c (BDCA-1)"
+]
+},
+{
+"name": "cDC2 / plasma cell",
+"markers": [
+"IRF4"
+]
+},
+{
+"name": "\u03b1\u03b2 T cell",
+"markers": [
+"TCR \u03b2"
+]
+},
+{
+"name": "\u03b3\u03b4 T cell",
+"markers": [
+"TCR \u03b3\u03b4"
+]
+}
+],
+"stats": {
+"antibodies": 148,
+"cellTypes": 128,
+"panels": 9
+}
+}
